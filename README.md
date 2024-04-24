@@ -1,6 +1,5 @@
 # 4. EXECUTION OF NETWORK COMMANDS
-# Name: Afsar jumail S
-# Reg. no: 212222240004
+
 ## Aim : 
 Use of Network commands in Real Time environment.
 ## Software : 
